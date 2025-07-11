@@ -1,6 +1,6 @@
 👋Olá!! Me chamo Matheus José Viliczinski<br>
-🤓Sou formado no IFC-Araquari
   Aprendiz Senai Sistemas de informação
+🤓Sou formado no IFC-Araquari
 
 ##
 <div style="display: inline_block"><br>
