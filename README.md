@@ -18,5 +18,5 @@
   <br>
  <div> 
   <a href = "mailto:mtheus_viliczinski@estudante.sesisenai.org.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/matheus-josé-viliczinski" target= "_blank"><img src= "https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+  <a href="https://www.linkedin.com/in/matheus-jos%C3%A9-viliczinski-ba314b332/" target= "_blank"><img src= "https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
  </div>
